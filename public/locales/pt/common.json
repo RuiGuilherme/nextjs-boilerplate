@@ -1,0 +1,22 @@
+{
+	"countText": "Contador",
+	"add": "Adicionar",
+	"remove": "Remover",
+	"increment": "Aumentar",
+	"reset-all-values": "Resetar todos os valores",
+	"user": "Usuário",
+	"email": "E-mail",
+	"password": "Senha",
+	"decrement": "Diminuir",
+	"placeholder-email": "Digite seu e-mail",
+	"placeholder-password": "Digite sua senha",
+	"placeholder-user": "Digite seu nome",
+	"count_one": "{{count}} - Item",
+	"count_other": "{{count}} - Items",
+	"change-language-en": "English",
+	"change-language-es": "Español",
+	"change-language-pt": "Português",
+	"user-page": "Página de usuário",
+	"main-page": "Página principal",
+	"reset": "Resetar"
+}

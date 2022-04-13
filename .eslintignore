@@ -1,0 +1,5 @@
+**/*{.,-}min.js
+__mocks__
+.next
+cypress
+node_modules
