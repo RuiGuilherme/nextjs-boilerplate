@@ -5,7 +5,7 @@
 		"Rui Guilherme <github.com/RuiGuilherme>"
 	],
 	"description": "A boilerplate NextJS + Redux Toolkit + Styled-components + Mui + Cypress + i18next + Eslint + Prettier",
-	"license": "MIT",
+	"license": "GPL-3.0",
 	"private": true,
 	"scripts": {
 		"dev": "next dev",
